@@ -13,7 +13,7 @@ var color = d3.scaleOrdinal(d3.schemeCategory20c);
 
 var pack = d3.pack()
     .size([width, height])
-    .padding(5);
+    .padding(3);
 
 d3.csv("flare.csv", function(d) {
   d.value = +d.value;
