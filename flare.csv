@@ -3,8 +3,22 @@ flare,
 flare.analytics,
 flare.analytics.cluster,
 flare.analytics.cluster.USA,19362129
-flare.analytics.cluster.CHINA,11937562
-flare.analytics.cluster.JAPAN,4884489
-flare.analytics.cluster.GERMANY,3651871
-flare.analytics.cluster.FRANCE,2574807
+flare.analytics.cluster.China,11937562
+flare.analytics.cluster.Japan,4884489
+flare.analytics.cluster.Germany,3651871
+flare.analytics.cluster.France,2574807
 flare.analytics.cluster.UK,2565051
+flare.analytics.cluster.India,2439008
+flare.analytics.cluster.Brazil,2080916
+flare.analytics.cluster.Italy,1921139
+flare.analytics.cluster.Canada,1640385
+flare.analytics.cluster.South Korea,1529743
+flare.analytics.cluster.Russia,1469341
+flare.analytics.cluster.Australia,1390150
+flare.analytics.cluster.Spain,1307170
+flare.analytics.cluster.Mexico,1142453
+flare.analytics.cluster.Indonesia,1010937
+flare.analytics.cluster.Turkey,841206
+flare.analytics.cluster.Netherlands,824480
+flare.analytics.cluster.Switzerland,680645
+flare.analytics.cluster.Saudi Arabia,678541
