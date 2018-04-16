@@ -163,7 +163,7 @@ flare.util.palette.Palette,1229
 flare.util.palette.ShapePalette,2059
 flare.util.palette.SizePalette,2291
 flare.util.Property,5559
-flare.util.Shapes,19118
+flare.util.KG,6551
 flare.util.Sort,6887
 flare.util.Stats,6557
 flare.util.Strings,22026
@@ -250,4 +250,4 @@ flare.vis.operator.OperatorList,5248
 flare.vis.operator.OperatorSequence,4190
 flare.vis.operator.OperatorSwitch,2581
 flare.vis.operator.SortOperator,2023
-flare.vis.USA,16540
+flare.vis.USA,18624475
