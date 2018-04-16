@@ -204,7 +204,7 @@ flare.vis.events,
 flare.vis.events.DataEvent,2313
 flare.vis.events.SelectionEvent,1880
 flare.vis.events.TooltipEvent,1701
-flare.vis.events.VisualizationEvent,1117
+flare.vis.events.USAEvent,1117
 flare.vis.legend,
 flare.vis.legend.Legend,20859
 flare.vis.legend.LegendItem,4614
@@ -250,4 +250,4 @@ flare.vis.operator.OperatorList,5248
 flare.vis.operator.OperatorSequence,4190
 flare.vis.operator.OperatorSwitch,2581
 flare.vis.operator.SortOperator,2023
-flare.vis.Visualization,16540
+flare.vis.USA,16540
